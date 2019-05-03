@@ -14,6 +14,11 @@ https://www.vox.com/science-and-health/2019/1/23/18194717/alexandria-ocasio-cort
 https://www.nytimes.com/interactive/2018/11/15/magazine/tech-design-inequality-health.html
 https://medium.com/@nils.backe/is-amazon-alexa-invading-privacy-analysis-of-an-ethical-dilemma-f7e064ab6dba
 https://hbr.org/2019/01/when-neuromarketing-crosses-the-line
+http://fortune.com/2019/04/08/eu-ai-ethics-principles/
+https://www.forbes.com/sites/insights-intelai/2019/03/27/rise-of-the-chief-ethics-officer/#1648dd815aba
+http://theconversation.com/gdpr-isnt-enough-to-protect-us-in-an-age-of-smart-algorithms-97389
+https://www.nytimes.com/interactive/2019/04/13/us/google-location-tracking-police.html?action=click&module=inline&pgtype=Article
+https://www.chronicle.com/article/Big-Data-Is-Getting-Bigger-So/244099
 
 ### https://www.businessinsider.com/hedge-funds-watching-linkedin-lawsuit-on-web-scraped-data-2019-3
 Hedge funds are watching a key lawsuit involving LinkedIn to see if they can spend billions on web-scraped data

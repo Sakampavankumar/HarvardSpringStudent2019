@@ -2,6 +2,7 @@
 Gender Shades Bias in training data
 https://youtu.be/TWWsW1w-BVo
 
+https://www.nytimes.com/2019/05/14/us/facial-recognition-ban-san-francisco.html
 https://www.forbes.com/sites/kalevleetaru/2016/06/17/are-research-ethics-obsolete-in-the-era-of-big-data/#71e882cb7aa3
 https://www.cnbc.com/2019/04/08/eu-releases-guidelines-for-ethical-ai.html
 https://www.nature.com/articles/d41586-019-01164-z
